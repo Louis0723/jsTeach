@@ -1,0 +1,14 @@
+{
+  "name": "teachwebpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "webpack": "webpack-cli"
+  },
+  "dependencies": {
+    "sha256": "^0.2.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
